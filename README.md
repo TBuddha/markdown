@@ -1,2 +1,2 @@
 # markdown
-存储资源用
+README resource
